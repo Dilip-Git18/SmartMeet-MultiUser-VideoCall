@@ -43,3 +43,7 @@ SmartMeet is a real-time multi-user video conferencing web application built wit
 ## Project Purpose
 
 SmartMeet provides a simple and secure platform for real-time online meetings. It combines multi-user video calling, host controls, live chat, image sharing, and meeting management in one application.
+
+## Live Project
+
+🔗 **Try SmartMeet:** https://smartmeet-pro.onrender.com/
